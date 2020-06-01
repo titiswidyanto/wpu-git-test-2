@@ -10,6 +10,10 @@ html>
   <body>
 	<h3> Hello world! </h3>
 	<p> loremipsum </p>
+	<ul>
+		<li> satu </li>
+		<li> dua </li>
+	</ul>
 
   </body>
 </html>
